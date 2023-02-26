@@ -64,4 +64,5 @@ function AlbumPicker() {
         </form>
     );
 }
+
 export default App
